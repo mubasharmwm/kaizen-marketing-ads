@@ -1,0 +1,60 @@
+{
+  "concepts": [
+    {
+      "name": "The $14 Reality Check",
+      "angle": "Calls out the absurdity of $997 courses teaching people to sell digital products, while Kaizen gives you 400,000 of them for $14. Price-contrast positioning against the overpriced MRR/PLR market.",
+      "target_emotion": "Indignation + relief",
+      "key_message": "Everyone else charges $997 to teach you what this $14 gives you outright.",
+      "research_support": "MRR/PLR competitors charge $497–$2,000. The $14 price point is a category-disrupting weapon when contrasted directly.",
+      "differentiation": "No competitor in this space runs price-contrast ads — they all justify their high price. This flips the script.",
+      "recommended_formats": ["Static", "Video"],
+      "example_hook": "They charged $997 to teach you how to sell digital products. I'm charging $14 to give you 400,000 of them.",
+      "status": "approved"
+    },
+    {
+      "name": "The Inventory Problem",
+      "angle": "Agitates the #1 bottleneck every aspiring digital entrepreneur faces — not having a product to sell — then positions Kaizen as the direct, immediate solution.",
+      "target_emotion": "Frustration with stuckness → immediate hope",
+      "key_message": "The only thing stopping your digital business is not having a product. Here are 400,000.",
+      "research_support": "'I don't have anything to sell' is the #1 objection to starting a digital product business. This meets buyers at that exact stuck moment.",
+      "differentiation": "Competitors talk about freedom and income. This goes one level deeper to the specific bottleneck buyers are stuck at.",
+      "recommended_formats": ["Static", "Carousel"],
+      "example_hook": "You've been watching other people sell digital products. You know why you haven't started. You don't have a product. Here are 400,000.",
+      "status": "approved"
+    },
+    {
+      "name": "The $14 Math",
+      "angle": "Visual-first concept showing the pure logic: sell 1 product, make your $14 back, everything else is profit. No income claims — just undeniable math anyone processes in 3 seconds.",
+      "target_emotion": "Logic + no-brainer certainty",
+      "key_message": "One sale covers your entire investment. The other 399,999 products are pure upside.",
+      "research_support": "The $14 price is so low the math becomes the proof. No testimonials needed — the numbers do the selling.",
+      "differentiation": "No one in this market runs math-based ads. Everyone runs lifestyle. This stands out visually and logically.",
+      "recommended_formats": ["Static", "Carousel"],
+      "example_hook": "$14 in. Sell 1 product for $14. You're already even. What do you do with the other 399,999?",
+      "status": "approved"
+    },
+    {
+      "name": "The Already Entrepreneur",
+      "angle": "Targets perpetual researchers — people who already identify as entrepreneurs, follow business content, save income posts, but haven't launched. Validates their identity and delivers the final nudge.",
+      "target_emotion": "Identity validation + urgency to act",
+      "key_message": "You've been thinking about it long enough. Here's what you've been waiting for.",
+      "research_support": "A large segment of the make-money-online audience is in perpetual research mode. Identity-based messaging converts this warmer audience better than benefit-focused ads.",
+      "differentiation": "Competitors target 'anyone who wants to make money.' This targets people who already self-identify as entrepreneurs — higher intent, closer to buying.",
+      "recommended_formats": ["Video", "Static"],
+      "example_hook": "You've saved 47 posts about making money online. You've watched the videos. You know it's possible. So what are you waiting for?",
+      "status": "approved"
+    },
+    {
+      "name": "The Wall of Products",
+      "angle": "Zero copy. Just a dense overwhelming grid of product mockups filling the entire frame, then one line: 400,000 products. $14. Master Resell Rights. Pure visual volume creates awe and disbelief.",
+      "target_emotion": "Awe + FOMO + disbelief",
+      "key_message": "The sheer volume at this price is impossible to ignore.",
+      "research_support": "The product grid on the landing page already converts. Bringing that visual weight into the ad feed creates a scroll-stopping experience competitors aren't using.",
+      "differentiation": "Every competitor uses lifestyle imagery — beaches, laptops, cash. A pure product-grid ad is visually alien in the feed and stops scrolls.",
+      "recommended_formats": ["Static", "Video"],
+      "example_hook": "400,000 digital products. One price. $14.",
+      "status": "approved"
+    }
+  ],
+  "approved_date": "2026-03-19"
+}

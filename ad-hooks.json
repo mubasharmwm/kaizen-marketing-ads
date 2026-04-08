@@ -1,0 +1,209 @@
+{
+  "concepts": [
+    {
+      "concept_name": "The $14 Reality Check",
+      "hooks": [
+        {
+          "text": "They charged $997 to teach you how to sell digital products. I'll give you 400,000 of them for $14.",
+          "type": "contrarian",
+          "formats": ["VIDEO", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "What if the $997 course was the scam?",
+          "type": "question",
+          "formats": ["STATIC", "VIDEO"],
+          "status": "approved"
+        },
+        {
+          "text": "Stop buying courses. Start buying inventory.",
+          "type": "command",
+          "formats": ["STATIC", "VIDEO"],
+          "status": "approved"
+        },
+        {
+          "text": "$997 vs $14. Same result. Different bank account.",
+          "type": "stat",
+          "formats": ["STATIC", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "I stopped buying courses the day I found this.",
+          "type": "story",
+          "formats": ["VIDEO", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "Everyone's selling you the map. I'm selling you the territory.",
+          "type": "contrarian",
+          "formats": ["PRIMARY", "VIDEO"],
+          "status": "approved"
+        }
+      ]
+    },
+    {
+      "concept_name": "The Inventory Problem",
+      "hooks": [
+        {
+          "text": "You don't have a product. That's the only thing between you and a digital business.",
+          "type": "pain",
+          "formats": ["VIDEO", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "What's actually stopping you from selling digital products right now?",
+          "type": "question",
+          "formats": ["STATIC", "VIDEO"],
+          "status": "approved"
+        },
+        {
+          "text": "400,000 products. $14. No creation required.",
+          "type": "stat",
+          "formats": ["STATIC", "VIDEO", "CAROUSEL"],
+          "status": "approved"
+        },
+        {
+          "text": "Stop waiting to create something. Start selling what already exists.",
+          "type": "command",
+          "formats": ["STATIC", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "The only thing missing from your digital business just became very affordable.",
+          "type": "curiosity_gap",
+          "formats": ["PRIMARY", "VIDEO"],
+          "status": "approved"
+        },
+        {
+          "text": "400,000 products landed in my account for $14. Here's what I did next.",
+          "type": "story",
+          "formats": ["VIDEO", "PRIMARY"],
+          "status": "approved"
+        }
+      ]
+    },
+    {
+      "concept_name": "The $14 Math",
+      "hooks": [
+        {
+          "text": "$14 in. Sell one product. You're already even.",
+          "type": "stat",
+          "formats": ["STATIC", "VIDEO"],
+          "status": "approved"
+        },
+        {
+          "text": "What do you do with the other 399,999 products after your first sale?",
+          "type": "question",
+          "formats": ["STATIC", "CAROUSEL", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "400,000 products ÷ $14 = less than a cent per product.",
+          "type": "stat",
+          "formats": ["STATIC", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "Most businesses take months to break even. This one needs one sale.",
+          "type": "contrarian",
+          "formats": ["VIDEO", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "What happens when your entire investment costs less than lunch?",
+          "type": "question",
+          "formats": ["VIDEO", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "Do the math. Then decide.",
+          "type": "command",
+          "formats": ["STATIC"],
+          "status": "approved"
+        }
+      ]
+    },
+    {
+      "concept_name": "The Already Entrepreneur",
+      "hooks": [
+        {
+          "text": "You're not missing the skill. You're missing the inventory.",
+          "type": "identity",
+          "formats": ["STATIC", "VIDEO", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "This is for the person who already knows they want a digital business.",
+          "type": "identity",
+          "formats": ["VIDEO", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "How many posts have you saved about selling digital products?",
+          "type": "question",
+          "formats": ["VIDEO", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "You've done the research. You know it works. So what's the actual hold-up?",
+          "type": "story",
+          "formats": ["VIDEO", "PRIMARY"],
+          "status": "approved"
+        },
+        {
+          "text": "Stop researching. Start selling.",
+          "type": "command",
+          "formats": ["STATIC", "VIDEO"],
+          "status": "approved"
+        },
+        {
+          "text": "The only difference between you and someone already making money from digital products is this.",
+          "type": "curiosity_gap",
+          "formats": ["PRIMARY", "VIDEO"],
+          "status": "approved"
+        }
+      ]
+    },
+    {
+      "concept_name": "The Wall of Products",
+      "hooks": [
+        {
+          "text": "400,000 digital products. $14.",
+          "type": "stat",
+          "formats": ["STATIC", "VIDEO"],
+          "status": "approved"
+        },
+        {
+          "text": "I had to count twice.",
+          "type": "curiosity_gap",
+          "formats": ["STATIC", "VIDEO"],
+          "status": "approved"
+        },
+        {
+          "text": "Less than a coffee. More than 400,000 products.",
+          "type": "stat",
+          "formats": ["STATIC", "VIDEO"],
+          "status": "approved"
+        },
+        {
+          "text": "Pick any of these 400,000 products. Sell it. Keep everything.",
+          "type": "command",
+          "formats": ["PRIMARY", "CAROUSEL"],
+          "status": "approved"
+        },
+        {
+          "text": "For everyone who thought starting a digital business meant starting from scratch.",
+          "type": "identity",
+          "formats": ["PRIMARY", "VIDEO"],
+          "status": "approved"
+        },
+        {
+          "text": "What would you do with 400,000 products and the right to sell every single one?",
+          "type": "question",
+          "formats": ["PRIMARY", "CAROUSEL"],
+          "status": "approved"
+        }
+      ]
+    }
+  ]
+}
